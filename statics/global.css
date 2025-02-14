@@ -1,6 +1,6 @@
 :root {
   --background: rgb(8, 4, 20);
-  --text: rgb(214, 219, 255);
+  --text: white;
   --white: white;
   --line-color: rgb(0, 115, 255);
 }
